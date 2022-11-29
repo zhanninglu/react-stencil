@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+If you used the stencil code, this is `https://zhanninglu.github.io/react-stencil`
 
 ### Goal and Value of the Application
 My goal it to create a simple interface for bakery customers enabling them to add/remove and browse items.
